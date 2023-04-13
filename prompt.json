@@ -16,22 +16,22 @@
     },
     {
         "row_idx": 4,
-        "act": "Generate a press release about our company",
+        "act": "Press release about our company",
         "prompt": "Generate a press release announcing our company’s latest partnership"
     },
     {
         "row_idx": 5,
-        "act": "Create a list of frequently asked questions for our customer service team",
+        "act": "FAQ for the customer service team.",
         "prompt": "Create a list of frequently asked questions for our customer service team"
     },
     {
         "row_idx": 6,
-        "act": "Write a promotional email to introduce our new product or service",
+        "act": "Promotional email.",
         "prompt": "Write a promotional email to introduce our new product or service"
     },
     {
         "row_idx": 7,
-        "act": "Clearly explain to me what is [your question for example quantum computing] like a 5 year old to me so that I get a in-depth understanding of that concept. Provide few examples too",
+        "act": "Explain [your question] to me.",
         "prompt": "Clearly explain to me what is [your question for example quantum computing] like a 5 year old to me so that I get a in-depth understanding of that concept. Provide few examples too"
     },
     {
