@@ -1,10 +1,10 @@
 [
     {
         "categories": [
-            {"categorie":"History"},
-            {"categorie":"Science"},
-            {"categorie":"Promotional"}
-    ],
+            "History",
+            "Science",
+            "Promotional"
+        ],
         "llists": [
             {
                 "row_idx": 0,
