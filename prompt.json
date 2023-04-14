@@ -1,5 +1,10 @@
 [
     {
+        "row_idx": 0,
+        "act": "Promotional email.",
+        "prompt": "Write a promotional email to introduce our new product or service"
+    },
+    {
         "row_idx": 1,
         "act": "Design an attractive and shareable post for this subject",
         "prompt": "Design an attractive and shareable post for this subject:"
@@ -11,48 +16,12 @@
     },
     {
         "row_idx": 3,
-        "act": "Create content for product demos",
-        "prompt": "Create content for product demos or presentations that showcases the key features and benefits of products or services:"
-    },
-    {
-        "row_idx": 4,
-        "act": "Craft a compelling opening paragraph for the article",
-        "prompt": "Craft a compelling opening paragraph for the article:"
-    },
-    {
-        "row_idx": 5,
-        "act": "FAQ for the customer service team.",
-        "prompt": "Create a list of frequently asked questions for our customer service team"
-    },
-    {
-        "row_idx": 6,
-        "act": "Promotional email.",
-        "prompt": "Write a promotional email to introduce our new product or service"
-    },
-    {
-        "row_idx": 7,
         "act": "Explain your question like for 5 year kid",
         "prompt": "Clearly explain to me what is [your question for example quantum computing] like a 5 year old to me so that I get a in-depth understanding of that concept. Provide few examples too"
     },
     {
-        "row_idx": 8,
+        "row_idx": 4,
         "act": "Create a short, engaging, social media message",
         "prompt": "Create a short, engaging, and shareable social media message:"
-    },
-    {
-        "row_idx": 9,
-        "act": "Write an influential call to action that inspires action",
-        "prompt": "Write an influential call to action that inspires action:"
-    },
-    {
-        "row_idx": 10,
-        "act": "Poet",
-        "prompt": "I want you to act as a poet. You will create poems that evoke emotions and have the power to stir people’s soul. Write on any topic or theme but make sure your words convey the feeling you are trying to express in beautiful yet meaningful ways. You can also come up with short verses that are still powerful enough to leave an imprint in readers' minds. My first request is \"I need a poem about love.\""
-    },
-    {
-        "row_idx": 11,
-        "act": "Philosophy Teacher",
-        "prompt": "I want you to act as a philosophy teacher. I will provide some topics related to the study of philosophy, and it will be your job to explain these concepts in an easy-to-understand manner. This could include providing examples, posing questions or breaking down complex ideas into smaller pieces that are easier to comprehend. My first request is \"I need help understanding how different philosophical theories can be applied in everyday life.\""
     }
-
 ]
