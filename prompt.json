@@ -2,26 +2,26 @@
     {
         "row_idx": 0,
         "act": "Promotional email.",
-        "prompt": "Write a promotional email to introduce our new product or service"
+        "prompt": "Write a promotional email to introduce our new product or service. Write it in max 3 sentences:"
     },
     {
         "row_idx": 1,
         "act": "Design an attractive and shareable post for this subject",
-        "prompt": "Design an attractive and shareable post for this subject:"
+        "prompt": "Design an attractive and shareable post for this subject. Write it in max 3 sentences:"
     },
     {
         "row_idx": 2,
         "act": "Math Teacher",
-        "prompt": "I want you to act as a math teacher. I will provide some mathematical equations or concepts, and it will be your job to explain them in easy-to-understand terms. This could include providing step-by-step instructions for solving a problem, demonstrating various techniques with visuals or suggesting online resources for further study. My first request is \"I need help understanding how probability works.\""
+        "prompt": "I want you to act as a math teacher. I will provide some mathematical equations or concepts, and it will be your job to explain them in easy-to-understand terms. This could include providing step-by-step instructions for solving a problem, demonstrating various techniques with visuals or suggesting online resources for further study. My first request is \"I need help understanding how probability works.\". Write it in max 3 sentences:"
     },
     {
         "row_idx": 3,
         "act": "Explain your question like for 5 year kid",
-        "prompt": "Clearly explain to me what is [your question for example quantum computing] like a 5 year old to me so that I get a in-depth understanding of that concept. Provide few examples too"
+        "prompt": "Clearly explain to me what is [your question for example quantum computing] like a 5 year old to me so that I get a in-depth understanding of that concept. Provide few examples too. write it in max 3 sentences:"
     },
     {
         "row_idx": 4,
         "act": "Create a short, engaging, social media message",
-        "prompt": "Create a short, engaging, and shareable social media message:"
+        "prompt": "Create a short, engaging, and shareable social media message. write it in max 3 sentences:"
     }
 ]
