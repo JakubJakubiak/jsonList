@@ -63,7 +63,7 @@
                 "categorie": "School",
                 "act": "Biology",
                 "descript": "Assistance with biology tasks",
-                "prompt":""
+                "prompt":"Assistance with biology tasks"
             },
             {
                 "row_idx": 7,
