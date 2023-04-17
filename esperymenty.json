@@ -11,7 +11,7 @@
         "lists": [
             {
                 "row_idx": 0,
-                "img": "https://flutter.github.io/assets-for-api-docs/assets/widgets/owl.jpg",
+                "img": "https://robohash.org/Simple%20Explanation",
                 "categorie": "General",
                 "act": "Simple Explanation",
                 "descript": "Explains a concept as if for a 5-year-old",
@@ -19,7 +19,7 @@
             },
             {
                 "row_idx": 1,
-                "img": "https://flutter.github.io/assets-for-api-docs/assets/widgets/owl.jpg",
+                "img": "https://robohash.org/Generates%20associations%20for%20a%20given%20word",
                 "categorie": "General",
                 "act": "Associations",
                 "descript": "Generates associations for a given word",
@@ -27,7 +27,7 @@
             },
             {
                 "row_idx": 2,
-                "img": "https://flutter.github.io/assets-for-api-docs/assets/widgets/owl.jpg",
+                "img": "https://robohash.org/Translates%20text%20to%20another%20language",
                 "categorie": "General",
                 "act": "Translator",
                 "descript": "Translates text to another language",
