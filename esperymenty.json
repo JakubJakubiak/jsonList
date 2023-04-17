@@ -14,140 +14,161 @@
                 "img": "https://flutter.github.io/assets-for-api-docs/assets/widgets/owl.jpg",
                 "categorie": "General",
                 "act": "Simple Explanation",
-                "prompt": "Explains a concept as if for a 5-year-old"
+                "descript": "Explains a concept as if for a 5-year-old",
+                "prompt":"Write a concise explanation of a complex concept for a beginner audience."
             },
             {
                 "row_idx": 1,
                 "img": "https://flutter.github.io/assets-for-api-docs/assets/widgets/owl.jpg",
                 "categorie": "General",
                 "act": "Associations",
-                "prompt": "Generates associations for a given word"
+                "descript": "Generates associations for a given word",
+                "prompt":"Infer the meaning of the following word based on its context in the text."
             },
             {
                 "row_idx": 2,
                 "img": "https://flutter.github.io/assets-for-api-docs/assets/widgets/owl.jpg",
                 "categorie": "General",
                 "act": "Translator",
-                "prompt": "Translates text to another language"
+                "descript": "Translates text to another language",
+                "prompt":"Translates text to another language"
             },
             {
                 "row_idx": 3,
                 "img": "https://flutter.github.io/assets-for-api-docs/assets/widgets/owl.jpg",
                 "categorie": "General",
                 "act": "Chat",
-                "prompt": "Conducts a conversation with a selected person"
+                "descript": "Conducts a conversation with a selected person",
+                "prompt":"Conducts a conversation with a selected person"
             },
             {
                 "row_idx": 4,
                 "img": "https://flutter.github.io/assets-for-api-docs/assets/widgets/owl.jpg",
                 "categorie": "School",
                 "act": "Math",
-                "prompt": "Assistance with math problems"
+                "descript": "Assistance with math problems",
+                "prompt":"Assistance with math problems"
             },
             {
                 "row_idx": 5,
                 "img": "https://flutter.github.io/assets-for-api-docs/assets/widgets/owl.jpg",
                 "categorie": "School",
                 "act": "English",
-                "prompt": "Help in learning the English language"
+                "descript": "Help in learning the English language",
+                "prompt":"I want you to act as a math teacher. I will provide some mathematical equations or concepts, and it will be your job to explain them in easy-to-understand terms. This could include providing step-by-step instructions for solving a problem, demonstrating various techniques with visuals or suggesting online resources for further study. My first request is \"I need help understanding how probability works.\""
             },
             {
                 "row_idx": 6,
                 "img": "https://flutter.github.io/assets-for-api-docs/assets/widgets/owl.jpg",
                 "categorie": "School",
                 "act": "Biology",
-                "prompt": "Assistance with biology tasks"
+                "descript": "Assistance with biology tasks",
+                "prompt":""
             },
             {
                 "row_idx": 7,
                 "img": "https://flutter.github.io/assets-for-api-docs/assets/widgets/owl.jpg",
                 "categorie": "School",
                 "act": "Chemistry",
-                "prompt": "Assistance with chemistry tasks"
+                "descript": "Assistance with chemistry tasks",
+                "prompt":"Chemistry Assignment Assistant."
             },
             {
                 "row_idx": 8,
                 "img": "https://flutter.github.io/assets-for-api-docs/assets/widgets/owl.jpg",
                 "categorie": "School",
                 "act": "Physics",
-                "prompt": "Assistance with physics tasks"
+                "descript": "Assistance with physics tasks",
+                "prompt":"Assistance with physics tasks"
             },
             {
                 "row_idx": 9,
                 "img": "https://flutter.github.io/assets-for-api-docs/assets/widgets/owl.jpg",
                 "categorie": "SocialMedia",
                 "act": "InstaPost",
-                "prompt": "Help in creating Instagram posts"
+                "descript": "Help in creating Instagram posts",
+                "prompt":"Help in creating Instagram posts"
+
             },
             {
                 "row_idx": 10,
                 "img": "https://flutter.github.io/assets-for-api-docs/assets/widgets/owl.jpg",
                 "categorie": "SocialMedia",
                 "act": "Hashtags",
-                "prompt": "Generates hashtags for posts"
+                "descript": "Generates hashtags for posts",
+                "prompt":"Generates hashtags for posts"
             },
             {
                 "row_idx": 11,
                 "img": "https://flutter.github.io/assets-for-api-docs/assets/widgets/owl.jpg",
                 "categorie": "SocialMedia",
                 "act": "Tweet",
-                "prompt": "Help in crafting tweets"
+                "descript": "Help in crafting tweets",
+                "prompt":"Help me craft engaging tweets for my social media campaign. I want to create compelling content that resonates with my audience and promotes my brand effectively. Please provide suggestions and ideas for tweets related to my industry or topic."
             },
             {
                 "row_idx": 12,
                 "img": "https://flutter.github.io/assets-for-api-docs/assets/widgets/owl.jpg",
                 "categorie": "SocialMedia",
                 "act": "ShortPost",
-                "prompt": "Creating short posts for social media"
+                "descript": "Creating short posts for social media",
+                "prompt":"Creating short posts for social media"
             },
             {
                 "row_idx": 13,
                 "img": "https://flutter.github.io/assets-for-api-docs/assets/widgets/owl.jpg",
                 "categorie": "Work",
                 "act": "Email",
-                "prompt": "Assistance in writing general emails"
+                "descript": "Assistance in writing general emails",
+                "prompt":"Assistance in writing general emails"
             },
             {
                 "row_idx": 14,
                 "img": "https://flutter.github.io/assets-for-api-docs/assets/widgets/owl.jpg",
                 "categorie": "Work",
                 "act": "Email Boss",
-                "prompt": "Assistance in writing emails to your boss"
+                "descript": "Assistance in writing emails to your boss",
+                "prompt":"Assistance in writing emails to your boss"
             },
             {
                 "row_idx": 15,
                 "img": "https://flutter.github.io/assets-for-api-docs/assets/widgets/owl.jpg",
                 "categorie": "Work",
                 "act": "Email Client",
-                "prompt": "Assistance in writing emails to clients"
+                "descript": "Assistance in writing emails to clients",
+                "prompt":"Assistance in writing emails to clients"
             },
             {
                 "row_idx": 16,
                 "img": "https://flutter.github.io/assets-for-api-docs/assets/widgets/owl.jpg",
                 "categorie": "Work",
                 "act": "Email Colleague",
-                "prompt": "Assistance in writing emails to colleagues"
+                "descript": "Assistance in writing emails to colleagues",
+                "prompt":"Assistance in writing emails to colleagues"
             },
             {
                 "row_idx": 17,
                 "img": "https://flutter.github.io/assets-for-api-docs/assets/widgets/owl.jpg",
                 "categorie": "Creative",
                 "act": "BusinessIdea",
-                "prompt": "Generates business ideas"
+                "descript": "Generates business ideas",
+                "prompt":"Generates business ideas"
             },
             {
                 "row_idx": 18,
                 "img": "https://flutter.github.io/assets-for-api-docs/assets/widgets/owl.jpg",
                 "categorie": "Creative",
                 "act": "GamerTag",
-                "prompt": "Creates gamer nicknames"
+                "descript": "Creates gamer nicknames",
+                "prompt":"Creates gamer nicknames"
             },
             {
                 "row_idx": 19,
                 "img": "https://flutter.github.io/assets-for-api-docs/assets/widgets/owl.jpg",
                 "categorie": "Creative",
                 "act": "CompanyName",
-                "prompt": "Generates company names"
+                "descript": "Generates company names",
+                "prompt":"Generates company names"
             }
         ]
     }
