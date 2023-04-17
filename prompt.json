@@ -11,7 +11,7 @@
         "lists": [
             {
                 "row_idx": 0,
-                "img": "https://flutter.github.io/assets-for-api-docs/assets/widgets/owl.jpg",
+                "img": "https://robohash.org/Simple%20Explanation",
                 "categorie": "General",
                 "act": "Simple Explanation",
                 "descript": "Explains a concept as if for a 5-year-old",
@@ -19,7 +19,7 @@
             },
             {
                 "row_idx": 1,
-                "img": "https://flutter.github.io/assets-for-api-docs/assets/widgets/owl.jpg",
+                "img": "https://robohash.org/Generates%20associations%20for%20a%20given%20word",
                 "categorie": "General",
                 "act": "Associations",
                 "descript": "Generates associations for a given word",
@@ -27,7 +27,7 @@
             },
             {
                 "row_idx": 2,
-                "img": "https://flutter.github.io/assets-for-api-docs/assets/widgets/owl.jpg",
+                "img": "https://robohash.org/Translates%20text%20to%20another%20language",
                 "categorie": "General",
                 "act": "Translator",
                 "descript": "Translates text to another language",
@@ -35,7 +35,7 @@
             },
             {
                 "row_idx": 3,
-                "img": "https://flutter.github.io/assets-for-api-docs/assets/widgets/owl.jpg",
+                "img": "https://robohash.org/Conducts%20a%20conversation%20with%20a%20selected%20person",
                 "categorie": "General",
                 "act": "Chat",
                 "descript": "Conducts a conversation with a selected person",
@@ -43,7 +43,7 @@
             },
             {
                 "row_idx": 4,
-                "img": "https://flutter.github.io/assets-for-api-docs/assets/widgets/owl.jpg",
+                "img": "https://robohash.org/Assistance%20with%20math%20problems",
                 "categorie": "School",
                 "act": "Math",
                 "descript": "Assistance with math problems",
@@ -51,7 +51,7 @@
             },
             {
                 "row_idx": 5,
-                "img": "https://flutter.github.io/assets-for-api-docs/assets/widgets/owl.jpg",
+                "img": "https://robohash.org/Help%20in%20learning%20the%20English%20language",
                 "categorie": "School",
                 "act": "English",
                 "descript": "Help in learning the English language",
@@ -59,7 +59,7 @@
             },
             {
                 "row_idx": 6,
-                "img": "https://flutter.github.io/assets-for-api-docs/assets/widgets/owl.jpg",
+                "img": "https://robohash.org/Assistance%20with%20biology%20tasks",
                 "categorie": "School",
                 "act": "Biology",
                 "descript": "Assistance with biology tasks",
@@ -67,7 +67,7 @@
             },
             {
                 "row_idx": 7,
-                "img": "https://flutter.github.io/assets-for-api-docs/assets/widgets/owl.jpg",
+                "img": "https://robohash.org/Chemistry",
                 "categorie": "School",
                 "act": "Chemistry",
                 "descript": "Assistance with chemistry tasks",
@@ -75,7 +75,7 @@
             },
             {
                 "row_idx": 8,
-                "img": "https://flutter.github.io/assets-for-api-docs/assets/widgets/owl.jpg",
+                "img": "https://robohash.org/Assistance%20with%20physics%20tasks",
                 "categorie": "School",
                 "act": "Physics",
                 "descript": "Assistance with physics tasks",
@@ -83,7 +83,7 @@
             },
             {
                 "row_idx": 9,
-                "img": "https://flutter.github.io/assets-for-api-docs/assets/widgets/owl.jpg",
+                "img": "https://robohash.org/InstaPost",
                 "categorie": "SocialMedia",
                 "act": "InstaPost",
                 "descript": "Help in creating Instagram posts",
@@ -92,7 +92,7 @@
             },
             {
                 "row_idx": 10,
-                "img": "https://flutter.github.io/assets-for-api-docs/assets/widgets/owl.jpg",
+                "img": "https://robohash.org/IGenerates%20hashtags%20for%20posts",
                 "categorie": "SocialMedia",
                 "act": "Hashtags",
                 "descript": "Generates hashtags for posts",
@@ -100,7 +100,7 @@
             },
             {
                 "row_idx": 11,
-                "img": "https://flutter.github.io/assets-for-api-docs/assets/widgets/owl.jpg",
+                "img": "https://robohash.org/Help%20in%20crafting%20tweets",
                 "categorie": "SocialMedia",
                 "act": "Tweet",
                 "descript": "Help in crafting tweets",
@@ -108,7 +108,7 @@
             },
             {
                 "row_idx": 12,
-                "img": "https://flutter.github.io/assets-for-api-docs/assets/widgets/owl.jpg",
+                "img": "https://robohash.org/ShortPost",
                 "categorie": "SocialMedia",
                 "act": "ShortPost",
                 "descript": "Creating short posts for social media",
@@ -116,7 +116,7 @@
             },
             {
                 "row_idx": 13,
-                "img": "https://flutter.github.io/assets-for-api-docs/assets/widgets/owl.jpg",
+                "img": "https://robohash.org/Creating%20short%20posts%20for%20social%20media",
                 "categorie": "Work",
                 "act": "Email",
                 "descript": "Assistance in writing general emails",
@@ -124,7 +124,7 @@
             },
             {
                 "row_idx": 14,
-                "img": "https://flutter.github.io/assets-for-api-docs/assets/widgets/owl.jpg",
+                "img": "https://robohash.org/Assistance%20in%20writing%20general%20emails",
                 "categorie": "Work",
                 "act": "Email Boss",
                 "descript": "Assistance in writing emails to your boss",
@@ -132,7 +132,7 @@
             },
             {
                 "row_idx": 15,
-                "img": "https://flutter.github.io/assets-for-api-docs/assets/widgets/owl.jpg",
+                "img": "https://robohash.org/Assistance%20in%20writing%20emails%20to%20clients",
                 "categorie": "Work",
                 "act": "Email Client",
                 "descript": "Assistance in writing emails to clients",
@@ -140,7 +140,7 @@
             },
             {
                 "row_idx": 16,
-                "img": "https://flutter.github.io/assets-for-api-docs/assets/widgets/owl.jpg",
+                "img": "https://robohash.org/Email%20Colleague",
                 "categorie": "Work",
                 "act": "Email Colleague",
                 "descript": "Assistance in writing emails to colleagues",
@@ -148,7 +148,7 @@
             },
             {
                 "row_idx": 17,
-                "img": "https://flutter.github.io/assets-for-api-docs/assets/widgets/owl.jpg",
+                "img": "https://robohash.org/Generates%20business%20ideas",
                 "categorie": "Creative",
                 "act": "BusinessIdea",
                 "descript": "Generates business ideas",
@@ -156,7 +156,7 @@
             },
             {
                 "row_idx": 18,
-                "img": "https://flutter.github.io/assets-for-api-docs/assets/widgets/owl.jpg",
+                "img": "https://robohash.org/Creates%20gamer%20nicknames",
                 "categorie": "Creative",
                 "act": "GamerTag",
                 "descript": "Creates gamer nicknames",
@@ -164,7 +164,7 @@
             },
             {
                 "row_idx": 19,
-                "img": "https://flutter.github.io/assets-for-api-docs/assets/widgets/owl.jpg",
+                "img": "https://robohash.org/Generates%20company%20names",
                 "categorie": "Creative",
                 "act": "CompanyName",
                 "descript": "Generates company names",
