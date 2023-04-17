@@ -12,35 +12,35 @@
                 "img":"https://flutter.github.io/assets-for-api-docs/assets/widgets/owl.jpg",
                 "categorie": "History",
                 "act": "Promotional email.",
-                "prompt": "Write a promotional email to introduce our new product or service.:"
+                "prompt": "Write a promotional email to introduce our new product or service."
             },
             {
                 "row_idx": 1,
                 "categorie": "History",
                 "img":"https://flutter.github.io/assets-for-api-docs/assets/widgets/owl.jpg",
-                "act": "Design an attractive and shareable post for this subject",
-                "prompt": "Design an attractive and shareable post for this subject.:"
+                "act": "Design an attractive post",
+                "prompt": "Design an attractive and shareable post for this subject."
             },
             {
                 "row_idx": 2,
                 "categorie": "Science",
                 "img":"https://flutter.github.io/assets-for-api-docs/assets/widgets/owl.jpg",
                 "act": "Math Teacher",
-                "prompt": "I want you to act as a math teacher. I will provide some mathematical equations or concepts, and it will be your job to explain them in easy-to-understand terms. This could include providing step-by-step instructions for solving a problem, demonstrating various techniques with visuals or suggesting online resources for further study. My first request is \"I need help understanding how probability works.\".:"
+                "prompt": "I want you to act as a math teacher. I will provide some mathematical equations or concepts, and it will be your job to explain them in easy-to-understand terms. This could include providing step-by-step instructions for solving a problem, demonstrating various techniques with visuals or suggesting online resources for further study. My first request is \"I need help understanding how probability works.\"."
             },
             {
                 "row_idx": 3,
                 "categorie": "Science",
                 "img":"https://flutter.github.io/assets-for-api-docs/assets/widgets/owl.jpg",
-                "act": "Explain your question like for 5 year kid",
-                "prompt": "Clearly explain to me what is [your question for example quantum computing] like a 5 year old to me so that I get a in-depth understanding of that concept. Provide few examples too.:"
+                "act": "Explain your question like for kid",
+                "prompt": "Clearly explain to me what is [your question for example quantum computing] like a 5 year old to me so that I get a in-depth understanding of that concept. Provide few examples too."
             },
             {
                 "row_idx": 4,
                 "categorie": "Promotional",
                 "img":"https://flutter.github.io/assets-for-api-docs/assets/widgets/owl.jpg",
-                "act": "Create a short, engaging, social media message",
-                "prompt": "Create a short, engaging, and shareable social media message.:"
+                "act": "Create a short, message",
+                "prompt": "Create a short, engaging, and shareable social media message."
             }
         ]
     }
