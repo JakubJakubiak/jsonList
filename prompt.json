@@ -1,175 +1,175 @@
 [
     {
 		 "severlink": "https://serwer-gpt-3.vercel.app/api",
-		 "categories": [
-            "all",
-            "general",
-            "school",
-            "socialmedia",
-            "work",
-            "creative"
+		  "categories": [
+            "All",
+            "General",
+            "School",
+            "SocialMedia",
+            "Work",
+            "Creative"
         ],
         "lists": [
             {
-                "id": 0,
+                "row_idx": 0,
                 "img": "https://robohash.org/Explains%20a%20ccept%20as%20if%20for%20a%205-year-old.png?set=set4",
-                "categorie": "general",
-                "act": "simple explanation",
-                "descript": "explains a concept as if for a 5-year-old",
-                "prompt":"write a concise explanation of a complex concept for a beginner audience."
+                "categorie": "General",
+                "act": "Simple Explanation",
+                "descript": "Explains a concept as if for a 5-year-old",
+                "prompt":"Write a concise explanation of a complex concept for a beginner audience."
             },
             {
-                "id": 1,
-                "img": "https://robohash.org/generates%20associations%20for%20a%20given%20word",
-                "categorie": "general",
-                "act": "associations",
-                "descript": "generates associations for a given word",
-                "prompt":"infer the meaning of the following word based on its context in the text."
+                "row_idx": 1,
+                "img": "https://robohash.org/Generates%20associations%20for%20a%20given%20word",
+                "categorie": "General",
+                "act": "Associations",
+                "descript": "Generates associations for a given word",
+                "prompt":"Infer the meaning of the following word based on its context in the text."
             },
             {
-                "id": 2,
-                "img": "https://robohash.org/translates%20text%20to%20another%20language",
-                "categorie": "general",
-                "act": "translator",
-                "descript": "translates text to another language",
-                "prompt":"translates text to another language"
+                "row_idx": 2,
+                "img": "https://robohash.org/Translates%20text%20to%20another%20language",
+                "categorie": "General",
+                "act": "Translator",
+                "descript": "Translates text to another language",
+                "prompt":"Translates text to another language"
             },
             {
-                "id": 3,
-                "img": "https://robohash.org/conducts%20a%20conversation%20with%20a%20selected%20person",
-                "categorie": "general",
-                "act": "chat",
-                "descript": "conducts a conversation with a selected person",
-                "prompt":"conducts a conversation with a selected person"
+                "row_idx": 3,
+                "img": "https://robohash.org/Conducts%20a%20conversation%20with%20a%20selected%20person",
+                "categorie": "General",
+                "act": "Chat",
+                "descript": "Conducts a conversation with a selected person",
+                "prompt":"Conducts a conversation with a selected person"
             },
             {
-                "id": 4,
-                "img": "https://robohash.org/assistance%20with%20math%20problems",
-                "categorie": "school",
-                "act": "math",
-                "descript": "assistance with math problems",
-                "prompt":"assistance with math problems"
+                "row_idx": 4,
+                "img": "https://robohash.org/Assistance%20with%20math%20problems",
+                "categorie": "School",
+                "act": "Math",
+                "descript": "Assistance with math problems",
+                "prompt":"Assistance with math problems"
             },
             {
-                "id": 5,
-                "img": "https://robohash.org/help%20in%20learning%20the%20english%20language",
-                "categorie": "school",
-                "act": "english",
-                "descript": "help in learning the english language",
-                "prompt":"i want you to act as a math teacher. i will provide some mathematical equations or concepts, and it will be your job to explain them in easy-to-understand terms. this could include providing step-by-step instructions for solving a problem, demonstrating various techniques with visuals or suggesting online resources for further study. my first request is \"i need help understanding how probability works.\""
+                "row_idx": 5,
+                "img": "https://robohash.org/Help%20in%20learning%20the%20English%20language",
+                "categorie": "School",
+                "act": "English",
+                "descript": "Help in learning the English language",
+                "prompt":"I want you to act as a math teacher. I will provide some mathematical equations or concepts, and it will be your job to explain them in easy-to-understand terms. This could include providing step-by-step instructions for solving a problem, demonstrating various techniques with visuals or suggesting online resources for further study. My first request is \"I need help understanding how probability works.\""
             },
             {
-                "id": 6,
-                "img": "https://robohash.org/assistance%20with%20biology%20tasks",
-                "categorie": "school",
-                "act": "biology",
-                "descript": "assistance with biology tasks",
-                "prompt":"assistance with biology tasks"
+                "row_idx": 6,
+                "img": "https://robohash.org/Assistance%20with%20biology%20tasks",
+                "categorie": "School",
+                "act": "Biology",
+                "descript": "Assistance with biology tasks",
+                "prompt":"Assistance with biology tasks"
             },
             {
-                "id": 7,
-                "img": "https://robohash.org/chemistry",
-                "categorie": "school",
-                "act": "chemistry",
-                "descript": "assistance with chemistry tasks",
-                "prompt":"chemistry assignment assistant."
+                "row_idx": 7,
+                "img": "https://robohash.org/Chemistry",
+                "categorie": "School",
+                "act": "Chemistry",
+                "descript": "Assistance with chemistry tasks",
+                "prompt":"Chemistry Assignment Assistant."
             },
             {
-                "id": 8,
-                "img": "https://robohash.org/assistance%20with%20physics%20tasks",
-                "categorie": "school",
-                "act": "physics",
-                "descript": "assistance with physics tasks",
-                "prompt":"assistance with physics tasks"
+                "row_idx": 8,
+                "img": "https://robohash.org/Assistance%20with%20physics%20tasks",
+                "categorie": "School",
+                "act": "Physics",
+                "descript": "Assistance with physics tasks",
+                "prompt":"Assistance with physics tasks"
             },
             {
-                "id": 9,
-                "img": "https://robohash.org/instapost",
-                "categorie": "socialmedia",
-                "act": "instapost",
-                "descript": "help in creating instagram posts",
-                "prompt":"help in creating instagram posts"
+                "row_idx": 9,
+                "img": "https://robohash.org/InstaPost",
+                "categorie": "SocialMedia",
+                "act": "InstaPost",
+                "descript": "Help in creating Instagram posts",
+                "prompt":"Help in creating Instagram posts"
 
             },
             {
-                "id": 10,
-                "img": "https://robohash.org/igenerates%20hashtags%20for%20posts",
-                "categorie": "socialmedia",
-                "act": "hashtags",
-                "descript": "generates hashtags for posts",
-                "prompt":"generates hashtags for posts"
+                "row_idx": 10,
+                "img": "https://robohash.org/IGenerates%20hashtags%20for%20posts",
+                "categorie": "SocialMedia",
+                "act": "Hashtags",
+                "descript": "Generates hashtags for posts",
+                "prompt":"Generates hashtags for posts"
             },
             {
-                "id": 11,
-                "img": "https://robohash.org/help%20in%20crafting%20tweets",
-                "categorie": "socialmedia",
-                "act": "tweet",
-                "descript": "help in crafting tweets",
-                "prompt":"help me craft engaging tweets for my social media campaign. i want to create compelling content that resonates with my audience and promotes my brand effectively. please provide suggestions and ideas for tweets related to my industry or topic."
+                "row_idx": 11,
+                "img": "https://robohash.org/Help%20in%20crafting%20tweets",
+                "categorie": "SocialMedia",
+                "act": "Tweet",
+                "descript": "Help in crafting tweets",
+                "prompt":"Help me craft engaging tweets for my social media campaign. I want to create compelling content that resonates with my audience and promotes my brand effectively. Please provide suggestions and ideas for tweets related to my industry or topic."
             },
             {
-                "id": 12,
-                "img": "https://robohash.org/shortpost",
-                "categorie": "socialmedia",
-                "act": "shortpost",
-                "descript": "creating short posts for social media",
-                "prompt":"creating short posts for social media"
+                "row_idx": 12,
+                "img": "https://robohash.org/ShortPost",
+                "categorie": "SocialMedia",
+                "act": "ShortPost",
+                "descript": "Creating short posts for social media",
+                "prompt":"Creating short posts for social media"
             },
             {
-                "id": 13,
-                "img": "https://robohash.org/creating%20short%20posts%20for%20social%20media",
-                "categorie": "work",
-                "act": "email",
-                "descript": "assistance in writing general emails",
-                "prompt":"assistance in writing general emails"
+                "row_idx": 13,
+                "img": "https://robohash.org/Creating%20short%20posts%20for%20social%20media",
+                "categorie": "Work",
+                "act": "Email",
+                "descript": "Assistance in writing general emails",
+                "prompt":"Assistance in writing general emails"
             },
             {
-                "id": 14,
-                "img": "https://robohash.org/assistance%20in%20writing%20general%20emails",
-                "categorie": "work",
-                "act": "email boss",
-                "descript": "assistance in writing emails to your boss",
-                "prompt":"assistance in writing emails to your boss"
+                "row_idx": 14,
+                "img": "https://robohash.org/Assistance%20in%20writing%20general%20emails",
+                "categorie": "Work",
+                "act": "Email Boss",
+                "descript": "Assistance in writing emails to your boss",
+                "prompt":"Assistance in writing emails to your boss"
             },
             {
-                "id": 15,
-                "img": "https://robohash.org/assistance%20in%20writing%20emails%20to%20clients",
-                "categorie": "work",
-                "act": "email client",
-                "descript": "assistance in writing emails to clients",
-                "prompt":"assistance in writing emails to clients"
+                "row_idx": 15,
+                "img": "https://robohash.org/Assistance%20in%20writing%20emails%20to%20clients",
+                "categorie": "Work",
+                "act": "Email Client",
+                "descript": "Assistance in writing emails to clients",
+                "prompt":"Assistance in writing emails to clients"
             },
             {
-                "id": 16,
-                "img": "https://robohash.org/email%20colleague",
-                "categorie": "work",
-                "act": "email colleague",
-                "descript": "assistance in writing emails to colleagues",
-                "prompt":"assistance in writing emails to colleagues"
+                "row_idx": 16,
+                "img": "https://robohash.org/Email%20Colleague",
+                "categorie": "Work",
+                "act": "Email Colleague",
+                "descript": "Assistance in writing emails to colleagues",
+                "prompt":"Assistance in writing emails to colleagues"
             },
             {
-                "id": 17,
-                "img": "https://robohash.org/generates%20business%20ideas",
-                "categorie": "creative",
-                "act": "businessidea",
-                "descript": "generates business ideas",
-                "prompt":"generates business ideas"
+                "row_idx": 17,
+                "img": "https://robohash.org/Generates%20business%20ideas",
+                "categorie": "Creative",
+                "act": "BusinessIdea",
+                "descript": "Generates business ideas",
+                "prompt":"Generates business ideas"
             },
             {
-                "id": 18,
-                "img": "https://robohash.org/creates%20gamer%20nicknames",
-                "categorie": "creative",
-                "act": "gamertag",
-                "descript": "creates gamer nicknames",
-                "prompt":"creates gamer nicknames"
+                "row_idx": 18,
+                "img": "https://robohash.org/Creates%20gamer%20nicknames",
+                "categorie": "Creative",
+                "act": "GamerTag",
+                "descript": "Creates gamer nicknames",
+                "prompt":"Creates gamer nicknames"
             },
             {
-                "id": 19,
-                "img": "https://robohash.org/generates%20company%20names",
-                "categorie": "creative",
-                "act": "companyname",
-                "descript": "generates company names",
-                "prompt":"generates company names"
+                "row_idx": 19,
+                "img": "https://robohash.org/Generates%20company%20names",
+                "categorie": "Creative",
+                "act": "CompanyName",
+                "descript": "Generates company names",
+                "prompt":"Generates company names"
             }
         ]
     }
