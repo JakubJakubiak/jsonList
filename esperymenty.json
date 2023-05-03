@@ -1,6 +1,7 @@
 [
     {
-        "categories": [
+		 "severlink": "https://serwer-gpt-3.vercel.app/api",
+		  "categories": [
             "All",
             "General",
             "School",
