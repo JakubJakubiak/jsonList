@@ -1,5 +1,4 @@
-[
-    {
+{
         "humanOrAi": [
             {
                 "link": "https://cdn.pixabay.com/photo/2022/12/26/13/50/flower-7679117__480.jpg",
@@ -2694,5 +2693,4 @@
                 "op": "ai"
             }
         ]
-    }
-]
+}
