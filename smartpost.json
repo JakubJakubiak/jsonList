@@ -1,0 +1,21 @@
+[
+    {
+		 "severlink": "https://server-test-gpt.vercel.app/api",
+		  "categories": [
+            "All",
+            "General",
+            "School",
+            "SocialMedia",
+            "Work",
+            "Creative"
+        ],
+        "lists": [
+            {
+                "row_idx": 0,
+                "tag": "add tags",
+                "prompt":"diverge this description as instagramer"
+            },
+
+        ]
+    }
+]
