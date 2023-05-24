@@ -1,7 +1,7 @@
 [
     {
-		 "severlink": "https://server-test-gpt.vercel.app/api",
-		  "categories": [
+        "severlink": "https://server-test-gpt.vercel.app/api",
+        "categories": [
             "All",
             "General",
             "School",
@@ -13,9 +13,8 @@
             {
                 "row_idx": 0,
                 "tag": "add tags",
-                "prompt":"diverge this description as instagramer"
-            },
-
+                "prompt": "diverge this description as instagramer"
+            }
         ]
     }
 ]
