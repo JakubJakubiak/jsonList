@@ -2,10 +2,12 @@
     {
         "severlink": "https://getresponse-uv4njwixra-uc.a.run.app",
         "categories": [
-            "Short",
-            "Medium ",
-            "Long  "
-
+            "All",
+            "General",
+            "School",
+            "SocialMedia",
+            "Work",
+            "Creative"
         ],
         "lists": [
             {
