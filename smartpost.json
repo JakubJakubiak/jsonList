@@ -2,9 +2,9 @@
     {
         "severlink": "https://getresponse-uv4njwixra-uc.a.run.app",
         "categories": [
-            "Short",
-            "Medium",
-			"Long " 
+            "write a short text",
+            "write a text of max 100 characters",
+			"write a text of max 200 characters " 
         ],
         "lists": [
             {
