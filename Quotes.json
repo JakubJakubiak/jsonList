@@ -1,0 +1,879 @@
+[
+    {
+        "author": "Jonathan Carroll",
+        "book": "",
+        "quote": "To, że milczę, nie znaczy, że nie mam nic do powiedzenia.",
+        "op": "human"
+    },
+    {
+        "author": "Andrzej Sapkowski",
+        "book": "Krew elfów",
+        "quote": "Lepiej zaliczać się do niektórych, niż do wszystkich.",
+        "op": "human"
+    },
+    {
+        "author": "Wisława Szymborska",
+        "book": "",
+        "quote": "Czytanie książek to najpiękniejsza zabawa, jaką sobie ludzkość wymyśliła",
+        "op": "human"
+    },
+    {
+        "author": "Carlos Ruiz Zafón",
+        "book": "Cień wiatru",
+        "quote": "Książki są lustrem: widzisz w nich tylko to co, już masz w sobie.",
+        "op": "human"
+    },
+    {
+        "author": "Antoine de Saint-Exupéry",
+        "book": "Mały Książę",
+        "quote": "Dobrze widzi się tylko sercem. Najważniejsze jest niewidoczne dla oczu",
+        "op": "human"
+    },
+    {
+        "author": "Michaił Bułhakow",
+        "book": "Mistrz i Małgorzata",
+        "quote": "– To wódka? – słabym głosem zapytała Małgorzata.(...)\n– Na litość boską, królowo – zachrypiał – czy ośmieliłbym się nalać damie wódki? To czysty spirytus.",
+        "op": "human"
+    },
+    {
+        "author": "Carlos Ruiz Zafón",
+        "book": "Cień wiatru",
+        "quote": "W chwili, kiedy zastanawiasz się czy kogoś kochasz, przestałeś go już kochać na zawsze.",
+        "op": "human"
+    },
+    {
+        "author": "Alan Alexander Milne",
+        "book": "Kubuś Puchatek",
+        "quote": "- A jeśli pewnego dnia będę musiał odejść? - spytał Krzyś, ściskając Misiową łapkę. - Co wtedy?\n- Nic wielkiego. - zapewnił go Puchatek. - Posiedzę tu sobie i na Ciebie poczekam. Kiedy się kogoś kocha, to ten drugi ktoś nigdy nie znika.",
+        "op": "human"
+    },
+    {
+        "author": "Wisława Szymborska",
+        "book": "Nic dwa razy: Wybór wierszy - Nothing Twice: Selected Poems",
+        "quote": "Żaden dzień się nie powtórzy,\nnie ma dwóch podobnych nocy,\ndwóch tych samych pocałunków,\ndwóch jednakich spojrzeń w oczy.",
+        "op": "human"
+    },
+    {
+        "author": "Paulo Coelho",
+        "book": "Alchemik",
+        "quote": "Kocha się za nic. Nie istnieje żaden powód do miłości.",
+        "op": "human"
+    },
+    {
+        "author": "Alan Alexander Milne",
+        "book": "Kubuś Puchatek",
+        "quote": "-Puchatku? \n-Tak Prosiaczku? \n-Nic- powiedział Prosiaczek biorąc Puchatka za łapkę - Chciałem się tylko upewnić, że jesteś.",
+        "op": "human"
+    },
+    {
+        "author": "J.K. Rowling",
+        "book": "Harry Potter i Kamień Filozoficzny",
+        "quote": "(...) ludzie mają wrodzony talent do wybierania właśnie tego, co dla nich najgorsze.",
+        "op": "human"
+    },
+    {
+        "author": "Antoine de Saint-Exupéry",
+        "book": "Mały Książę",
+        "quote": "Miłość nie polega na tym, aby wzajemnie sobie się przyglądać, lecz aby patrzeć razem w tym samym kierunku.",
+        "op": "human"
+    },
+    {
+        "author": "Winston Groom",
+        "book": "Forrest Gump",
+        "quote": "Życie jest jak pudełko czekoladek - nigdy nie wiesz, co ci się trafi.",
+        "op": "human"
+    },
+    {
+        "author": "Gilbert Keith Chesterton",
+        "book": "",
+        "quote": "Pokój bez książek to jak ciało bez duszy.",
+        "op": "human"
+    },
+    {
+        "author": "Cassandra Clare",
+        "book": "Miasto Kości",
+        "quote": "-Nie zakochałeś się jeszcze we właściwiej osobie?\n-Niestety, moją jedyną miłością pozostaję ja sam.\n-Przynajmniej nie martwisz się odrzuceniem, chłopcze.\n-Niekoniecznie. Od czasu do czasu się odtrącam, żeby było ciekawiej.",
+        "op": "human"
+    },
+    {
+        "author": "C.S. Lewis",
+        "book": "Cztery miłości",
+        "quote": "Przyjaźń rodzi się w momencie, gdy jedna osoba mówi do drugiej: \"Co? Ty też? Myślałem, że tylko ja\".",
+        "op": "human"
+    },
+    {
+        "author": "Suzanne Collins",
+        "book": "Kosogłos",
+        "quote": "Pozbierać jest się dziesięć razy trudniej, niż rozsypać.",
+        "op": "human"
+    },
+    {
+        "author": "Umberto Eco",
+        "book": "",
+        "quote": "Kto czyta książki, żyje podwójnie.",
+        "op": "human"
+    },
+    {
+        "author": "Antoine de Saint-Exupéry",
+        "book": "Mały Książę",
+        "quote": "- Na pustyni jest się trochę samotnym. \n- Równie samotnym jest się wśród ludzi.",
+        "op": "human"
+    },
+    {
+        "author": "Antoine de Saint-Exupéry",
+        "book": "",
+        "quote": "Przyjaciele są jak ciche anioły, które podnoszą nas, kiedy nasze skrzydła zapominają jak latać.",
+        "op": "human"
+    },
+    {
+        "author": "William Wharton",
+        "book": "Tato",
+        "quote": "Kochać kogoś, to przede wszystkim pozwalać mu na to, żeby był, jaki jest.",
+        "op": "human"
+    },
+    {
+        "author": "Paulo Coelho",
+        "book": "Być jak płynąca rzeka",
+        "quote": "Co jest najśmieszniejsze w ludziach: Zawsze myślą na odwrót: spieszy im się do dorosłości, a potem wzdychają za utraconym dzieciństwem. Tracą zdrowie by zdobyć pieniądze, potem tracą pieniądze by odzyskać zdrowie. Z troską myślą o przyszłości, zapominając o chwili obecnej i w ten sposób nie przeżywają ani teraźniejszości ani przyszłości. Żyją jakby nigdy nie mieli umrzeć, a umierają, jakby nigdy nie żyli.",
+        "op": "human"
+    },
+    {
+        "author": "Jane Austen",
+        "book": "Duma i uprzedzenie",
+        "quote": "Świat cierpi na brak mężczyzn, szczególnie tych, którzy są cokolwiek warci.",
+        "op": "human"
+    },
+    {
+        "author": "Antoine de Saint-Exupéry",
+        "book": "Mały Książę",
+        "quote": "Wiesz... gdy się jest bardzo smutnym, lubi się zachody słońca...",
+        "op": "human"
+    },
+    {
+        "author": "Stephen King",
+        "book": "Serca Atlantydów",
+        "quote": "Zabijanie dla pokoju jest jak pieprzenie się dla cnoty.",
+        "op": "human"
+    },
+    {
+        "author": "Terry Pratchett",
+        "book": "Trzy wiedźmy",
+        "quote": "Kiedy łamiesz zasady, łam je mocno i na dobre.",
+        "op": "human"
+    },
+    {
+        "author": "Phil Bosmans",
+        "book": "",
+        "quote": "Najpiękniejszych chwil w życiu nie zaplanujesz. One przyjdą same.",
+        "op": "human"
+    },
+    {
+        "author": "Carlos Ruiz Zafón",
+        "book": "Cień wiatru",
+        "quote": "Istniejemy póki ktoś o nas pamięta.",
+        "op": "human"
+    },
+    {
+        "author": "J.K. Rowling",
+        "book": "Harry Potter i Insygnia Śmierci",
+        "quote": "Nie żałuj umarłych, Harry, żałuj żywych, a przede wszystkim tych, którzy żyją bez miłości.",
+        "op": "human"
+    },
+    {
+        "author": "Albert Einstein",
+        "book": "",
+        "quote": "Jeżeli zabałaganione biurko jest oznaką zabałaganionego umysłu, oznaką czego jest puste biurko?",
+        "op": "human"
+    },
+    {
+        "author": "Ken Kesey",
+        "book": "Lot nad kukułczym gniazdem",
+        "quote": "Nic tak nie irytuje ludzi, którzy chcą ci obrzydzić życie, jak to, że zachowujesz się, jak gdybyś tego nie zauważał.",
+        "op": "human"
+    },
+    {
+        "author": "Charles Bukowski",
+        "book": "Szmira",
+        "quote": "Miałem zły dzień. Tydzień. Miesiąc. Rok. Życie. Cholera jasna.",
+        "op": "human"
+    },
+    {
+        "author": "J.R.R. Tolkien",
+        "book": "Hobbit, czyli tam i z powrotem",
+        "quote": "Kto szuka, ten najczęściej coś znajduje, niestety czasem zgoła nie to, czego mu potrzeba.",
+        "op": "human"
+    },
+    {
+        "author": "Cassandra Clare",
+        "book": "Miasto Kości",
+        "quote": "Kochać to niszczyć, a być kochanym, to zostać zniszczonym",
+        "op": "human"
+    },
+    {
+        "author": "Nicholas Sparks",
+        "book": "I wciąż ją kocham",
+        "quote": "Prawdziwa miłość oznacza,że zależy ci na szczęściu drugiego człowieka bardziej niż na własnym, bez względu na to, przed jak  bolesnymi wyborami stajesz.",
+        "op": "human"
+    },
+    {
+        "author": "Becca Fitzpatrick",
+        "book": "Szeptem",
+        "quote": "Pamiętaj, że człowiek się zmienia, jednak jego przeszłość nigdy.",
+        "op": "human"
+    },
+    {
+        "author": "Cassandra Clare",
+        "book": "Mechaniczny anioł",
+        "quote": "Zawsze trzeba być ostrożnym z książkami i z tym, co w nich jest, bo słowa mają moc zmieniania ludzi.",
+        "op": "human"
+    },
+    {
+        "author": "J.K. Rowling",
+        "book": "Harry Potter i Kamień Filozoficzny",
+        "quote": "Jeśli ktoś kocha nas aż tak bardzo, to nawet jak odejdzie na zawsze, jego miłość będzie nas zawsze chronić.",
+        "op": "human"
+    },
+    {
+        "author": "Carlos Ruiz Zafón",
+        "book": "Cień wiatru",
+        "quote": "...ten, kto kocha naprawdę, kocha w milczeniu, uczynkiem, a nie słowami.",
+        "op": "human"
+    },
+    {
+        "author": "Giovanni Giacomo Casanova",
+        "book": "Pamiętniki",
+        "quote": "Strzeż się tego, kto czytał tylko jedną książkę.",
+        "op": "human"
+    },
+    {
+        "author": "Mark Twain",
+        "book": "",
+        "quote": "Każdy człowiek jest jak Księżyc. Ma swoją drugą stronę, której nie pokazuje nikomu.",
+        "op": "human"
+    },
+    {
+        "author": "Paulo Coelho",
+        "book": "Alchemik",
+        "quote": "To możliwość spełnienia marzeń sprawia, że życie jest tak fascynujące.",
+        "op": "human"
+    },
+    {
+        "author": "Harlan Coben",
+        "book": "Nie mów nikomu",
+        "quote": "Lepiej kochać, a potem płakać. Następna bzdura. Wierzcie mi, wcale nie lepiej. Nie pokazujcie mi raju, żeby potem go spalić.",
+        "op": "human"
+    },
+    {
+        "author": "Éric-Emmanuel Schmitt",
+        "book": "Oskar i pani Róża",
+        "quote": "...życie to taki dziwny prezent. Na początku się je przecenia: sądzi się, że dostało się życie wieczne. Potem się go nie docenia, uważa się, że jest do chrzanu, za krótkie, chciałoby się niemal je odrzucić. W końcu kojarzy się, że to nie był prezent, ale jedynie pożyczka. I próbuje się na nie zasłużyć.",
+        "op": "human"
+    },
+    {
+        "author": "Cassandra Clare",
+        "book": "Miasto szkła",
+        "quote": "Kocham cię. Będę cię kochał do dnia, w którym umrę. A jeśli po tym jest jakieś życie, to wtedy też będę cię kochał.",
+        "op": "human"
+    },
+    {
+        "author": "Janusz Leon Wiśniewski",
+        "book": "Samotność w Sieci",
+        "quote": "Słowami też można dotykać. Nawet czulej niż dłońmi.",
+        "op": "human"
+    },
+    {
+        "author": "Cassandra Clare",
+        "book": "Miasto Kości",
+        "quote": "Sarkazm to ostatnia deska ratunku, dla osób o upośledzonej wyobraźni.",
+        "op": "human"
+    },
+    {
+        "author": "Gabriel García Márquez",
+        "book": "",
+        "quote": "Najbardziej odczujesz brak jakiejś osoby, kiedy będziesz siedział obok niej i będziesz wiedział, że ona nigdy nie będzie twoja.",
+        "op": "human"
+    },
+    {
+        "author": "J.K. Rowling",
+        "book": "Harry Potter i Kamień Filozoficzny",
+        "quote": "Są takie wydarzenia, które - przeżyte wspólnie - muszą się zakończyć przyjaźnią...",
+        "op": "human"
+    },
+    {
+        "author": "Antoine de Saint-Exupéry",
+        "book": "Mały Książę",
+        "quote": "Na zawsze ponosisz odpowiedzialność za to, co oswoiłeś.",
+        "op": "human"
+    },
+    {
+        "author": "George R.R. Martin",
+        "book": "Starcie królów",
+        "quote": "- Sen jest dobry. - stwierdził. - Ale książki są lepsze.",
+        "op": "human"
+    },
+    {
+        "author": "Stephen King",
+        "book": "Miasteczko Salem",
+        "quote": "[...] Boże użycz mi pogody ducha abym godził się z tym, czego nie mogę zmienić; odwagi abym zmieniał to, co mogę zmienić i szczęścia, aby mi się jedno z drugim nie popieprzyło [...]",
+        "op": "human"
+    },
+    {
+        "author": "Suzanne Collins",
+        "book": "Kosogłos",
+        "quote": "Więc kiedy szepce:\n- Kochasz mnie. Prawda czy fałsz?\nOdpowiadam:\n- Prawda.",
+        "op": "human"
+    },
+    {
+        "author": "Andrzej Sapkowski",
+        "book": "Ostatnie życzenie",
+        "quote": "O miłości wiemy niewiele. Z miłością jest jak z gruszką. Gruszka jest słodka i ma kształt. Spróbujcie zdefiniować kształt gruszki.",
+        "op": "human"
+    },
+    {
+        "author": "Terry Pratchett",
+        "book": "Kosiarz",
+        "quote": "Jest śmierć i podatki, ale podatki są gorsze, bo śmierć przynajmniej nie trafia się człowiekowi co roku.",
+        "op": "human"
+    },
+    {
+        "author": "Paulo Coelho",
+        "book": "Alchemik",
+        "quote": "Zawsze na świecie ktoś na kogoś czeka.",
+        "op": "human"
+    },
+    {
+        "author": "Carlos Ruiz Zafón",
+        "book": "Cień wiatru",
+        "quote": "Ludzie są gotowi wierzyć we wszystko, tylko nie w prawdę.",
+        "op": "human"
+    },
+    {
+        "author": "Maya Angelou",
+        "book": "",
+        "quote": "Życia nie mierzy się ilością oddechów, ale ilością chwil, które zapierają dech w piersiach.",
+        "op": "human"
+    },
+    {
+        "author": "Oscar Wilde",
+        "book": "Portret Doriana Graya",
+        "quote": "Jedynym sposobem pozbycia się pokusy jest uleganie jej.",
+        "op": "human"
+    },
+    {
+        "author": "Carlos Ruiz Zafón",
+        "book": "Cień wiatru",
+        "quote": "Mówienie jest rzeczą głupców, milczenie- tchórzy a słuchanie rzeczą mędrców.",
+        "op": "human"
+    },
+    {
+        "author": "Andrzej Sapkowski",
+        "book": "Wieża jaskółki",
+        "quote": "Lepiej bez celu iść naprzód niż bez celu stać w miejscu, a z pewnością o niebo lepiej, niż bez celu się cofać.",
+        "op": "human"
+    },
+    {
+        "author": "Becca Fitzpatrick",
+        "book": "Crescendo",
+        "quote": "- jesteś psychopatą \n- wolę określenie \"człowiek z wyobraźnią",
+        "op": "human"
+    },
+    {
+        "author": "Cassandra Clare",
+        "book": "Miasto Kości",
+        "quote": "Wiesz jakie jest najgorsze uczucie, jakie mogę sobie wyobrazić? Nie ufać osobie, którą się kocha najbardziej na świecie.",
+        "op": "human"
+    },
+    {
+        "author": "Krystyna Siesicka",
+        "book": "Zapałka na zakręcie",
+        "quote": "Człowiek to rzeczownik, a rzeczownikiem rządzą przypadki.",
+        "op": "human"
+    },
+    {
+        "author": "George Orwell",
+        "book": "Folwark zwierzęcy",
+        "quote": "Zwierzęta w ogrodzie patrzyły to na świnię, to na człowieka, potem znów na świnię i na człowieka, ale nikt już nie mógł się połapać, kto jest kim.",
+        "op": "human"
+    },
+    {
+        "author": "J.K. Rowling",
+        "book": "Harry Potter i Zakon Feniksa",
+        "quote": "To, że twoja wrażliwość uczuciowa mieści się w łyżeczce od herbaty, nie świadczy o tym, że wszyscy są tak upośledzeni.",
+        "op": "human"
+    },
+    {
+        "author": "Lucy Maud Montgomery",
+        "book": "Ania z Zielonego Wzgórza",
+        "quote": "Jutro jest zawsze czyste, nieskalane żadnym błędem.",
+        "op": "human"
+    },
+    {
+        "author": "Suzanne Collins",
+        "book": "Kosogłos",
+        "quote": "Niektóre drogi trzeba pokonywać samotnie.",
+        "op": "human"
+    },
+    {
+        "author": "Albert Einstein",
+        "book": "",
+        "quote": "Tylko dwie rzeczy są nieskończone: wszechświat oraz ludzka głupota, choć nie jestem pewien co do tej pierwszej.",
+        "op": "human"
+    },
+    {
+        "author": "John Green",
+        "book": "Gwiazd naszych wina",
+        "quote": "Moje idee to gwiazdy, których nie potrafię ułożyć w konstelacje.",
+        "op": "human"
+    },
+    {
+        "author": "Cassandra Clare",
+        "book": "Miasto szkła",
+        "quote": "Niestety, człowiek najbardziej nienawidzi kogoś, na kim mu kiedyś zależało.",
+        "op": "human"
+    },
+    {
+        "author": "Maja Lidia Kossakowska",
+        "book": "Siewca Wiatru",
+        "quote": "Nie przewrócę się, nawet się kurwa nie potknę.",
+        "op": "human"
+    },
+    {
+        "author": "Oscar Wilde",
+        "book": "Portret Doriana Graya",
+        "quote": "Ludzie znają dziś cenę wszystkiego, nie znając wartości niczego.",
+        "op": "human"
+    },
+    {
+        "author": "Andrzej Sapkowski",
+        "book": "Krew elfów",
+        "quote": "Wiadomym jest mi, że masz lat blisko czterdzieści, wyglądasz na blisko trzydzieści, wyobrażasz sobie, że masz nieco ponad dwadzieścia, a postępujesz tak jakbyś miał niecałe dziesięć.",
+        "op": "human"
+    },
+    {
+        "author": "Paulo Coelho",
+        "book": "Alchemik",
+        "quote": "I kiedy czegoś gorąco pragniesz, to cały wszechświat sprzyja potajemnie twojemu pragnieniu.",
+        "op": "human"
+    },
+    {
+        "author": "John Green",
+        "book": "Gwiazd naszych wina",
+        "quote": "- Okay - powiedział, gdy minęła cała wieczność. - Może \"okay\" będzie naszym \"zawsze\".\n- Okay - zgodziłam się.",
+        "op": "human"
+    },
+    {
+        "author": "Éric-Emmanuel Schmitt",
+        "book": "Oskar i pani Róża",
+        "quote": "Zapominamy, że życie jest kruche, delikatne, że nie trwa wiecznie. Zachowujemy się wszyscy, jak byśmy byli nieśmiertelni.\nCodziennie patrz na świat, jakbyś oglądał go po raz pierwszy.",
+        "op": "human"
+    },
+    {
+        "author": "Anne Frank",
+        "book": "Dziennik Anny Frank",
+        "quote": "Zwykli ludzie nie wiedzą ile dla kogoś zamkniętego znaczą książki.",
+        "op": "human"
+    },
+    {
+        "author": "Stephenie Meyer",
+        "book": "Zmierzch",
+        "quote": "Jeśli możesz żyć wiecznie, to musisz wiedzieć po co żyjesz.",
+        "op": "human"
+    },
+    {
+        "author": "Gandhi Mahatma",
+        "book": "",
+        "quote": "Żyj tak, jakbyś miał umrzeć jutro. Ucz się tak, jakbyś miał żyć wiecznie.",
+        "op": "human"
+    },
+    {
+        "author": "Carlos Ruiz Zafón",
+        "book": "Cień wiatru",
+        "quote": "Przeznaczenie zazwyczaj czeka tuż za rogiem. Jakby było kieszonkowcem, dziwką albo sprzedawcą losów na loterie; to jego najczęstsze wcielenia. Do drzwi naszego domu nigdy nie zapuka. Trzeba za nim ruszyć.",
+        "op": "human"
+    },
+    {
+        "author": "Cassandra Clare",
+        "book": "Miasto szkła",
+        "quote": "-Powiedziałeś, że chcesz się przejść. Jaki spacer trwa sześć godzin?! \n-Długi?",
+        "op": "human"
+    },
+    {
+        "author": "Jodi Picoult",
+        "book": "Bez mojej zgody",
+        "quote": "Każdy samotnik, choćby się zaklinał, że tak nie jest, pozostanie samotny nie dlatego, że lubi,ale dlatego, że próbował stać się częścią świata, ale nie mógł, bo doznawał ciągłych rozczarowań ze strony ludzi.",
+        "op": "human"
+    },
+    {
+        "author": "Nicholas Sparks",
+        "book": "Ostatnia piosenka",
+        "quote": "Trzeba coś kochać, żeby to znienawidzić.",
+        "op": "human"
+    },
+    {
+        "author": "John Green",
+        "book": "Gwiazd naszych wina",
+        "quote": "Świat nie jest instytucją zajmującą się spełnianiem życzeń.",
+        "op": "human"
+    },
+    {
+        "author": "Carlos Ruiz Zafón",
+        "book": "Cień wiatru",
+        "quote": "[...] niewiele rzeczy ma na człowieka tak wielki wpływ jak pierwsza książka, która od razu trafia do jego serca.",
+        "op": "human"
+    },
+    {
+        "author": "George R.R. Martin",
+        "book": "Gra o tron",
+        "quote": "Umysł zaś potrzebuje książek, podobnie jak miecz potrzebuje kamienia do ostrzenia, jeśli ma oczywiście zachować ostrość.",
+        "op": "human"
+    },
+    {
+        "author": "Carlos Ruiz Zafón",
+        "book": "Gra anioła",
+        "quote": "A wie pan co jest najlepszego w złamanym sercu? (...) Tak naprawdę można je złamać tylko raz. Reszta to ledwie zadrapania",
+        "op": "human"
+    },
+    {
+        "author": "Becca Fitzpatrick",
+        "book": "Szeptem",
+        "quote": "- Nie umawiam się z nieznajomymi. - oświadczyłam. \n- Na szczęście ja tak. Przyjadę o piątej.",
+        "op": "human"
+    },
+    {
+        "author": "Antoine de Saint-Exupéry",
+        "book": "Mały Książę",
+        "quote": "Człowiek naraża się na łzy, gdy raz pozwoli się oswoić.",
+        "op": "human"
+    },
+    {
+        "author": "Jeanette Winterson",
+        "book": "Zapisane na ciele",
+        "quote": "Dziura w moim sercu ma twój kształt i nikt inny do niej nie pasuje.",
+        "op": "human"
+    },
+    {
+        "author": "Terry Pratchett",
+        "book": "Maskarada",
+        "quote": "Ludzie, którzy nie potrzebują innych ludzi, potrzebują innych ludzi, by im okazywać, że są ludźmi, którzy nie potrzebują innych ludzi.",
+        "op": "human"
+    },
+    {
+        "author": "J.K. Rowling",
+        "book": "Harry Potter i Insygnia Śmierci",
+        "quote": "Śmierć będzie ostatnim wrogiem, który zostanie zniszczony.",
+        "op": "human"
+    },
+    {
+        "author": "Emily Jane Brontë",
+        "book": "Wichrowe Wzgórza",
+        "quote": "Przewodnią myślą mego życia jest on. Gdyby wszystko przepadło, a on jeden pozostał, to i ja istniałabym nadal. Ale gdyby wszystko zostało, a on zniknął, wszechświat byłby dla mnie obcy i straszny, nie miałabym z nim po porostu nic wspólnego.",
+        "op": "human"
+    },
+    {
+        "author": "J.R.R. Tolkien",
+        "book": "Władca Pierścieni",
+        "quote": "Wielu spośród żyjących zasługuje na śmierć. A niejeden z tych, którzy umierają zasługuje na życie. Czy możesz ich nim obdarzyć? Nie bądź więc tak pochopny w ferowaniu wyroków śmierci, nawet bowiem najmądrzejszy nie wszystko wie.",
+        "op": "human"
+    },
+    {
+        "author": "Carlos Ruiz Zafón",
+        "book": "Cień wiatru",
+        "quote": "Czytać to bardziej żyć, to żyć intensywniej.",
+        "op": "human"
+    },
+    {
+        "author": "Cassandra Clare",
+        "book": "Miasto szkła",
+        "quote": "Mogłaby zamknąć oczy, udawać, że wszystko jest w porządku. Wiedziała jednak, że nie da się żyć z zamkniętymi oczami.",
+        "op": "human"
+    },
+    {
+        "author": "Erich Maria Remarque",
+        "book": "Trzej towarzysze",
+        "quote": "Im mniej człowiek wie, tym łatwiej mu żyć. Wiedza daje wolność, ale unieszczęśliwia.",
+        "op": "human"
+    },
+    {
+        "author": "Suzanne Collins",
+        "book": "Igrzyska śmierci",
+        "quote": "Masz w sobie tyle uroku co zdechła dżdżownica",
+        "op": "human"
+    },
+    {
+        "author": "Bolesław Prus",
+        "book": "Lalka",
+        "quote": "Pluń na wszystko, co minęło: na własną boleść i na cudzą nikczemność... Wybierz sobie jakiś cel, jakikolwiek i zacznij nowe życie.",
+        "op": "human"
+    },
+    {
+        "author": "J.K. Rowling",
+        "book": "Harry Potter i Czara Ognia",
+        "quote": "Zagłuszanie bólu na jakiś czas sprawia, że powraca ze zdwojoną siłą.",
+        "op": "human"
+    },
+    {
+        "author": "Michaił Bułhakow",
+        "book": "Mistrz i Małgorzata",
+        "quote": "Nie wiadomo, dlaczego wszyscy mówią do kotów „ty”, choć jako żywo żaden kot nigdy z nikim nie pił bruderszaftu.",
+        "op": "human"
+    },
+    {
+        "author": "Suzanne Collins",
+        "book": "Kosogłos",
+        "quote": "Nie mogę uwierzyć, że tak normalnie wyglądam na zewnątrz, choć w środku mam kompletne pobojowisko.",
+        "op": "human"
+    },
+    {
+        "author": "Andrzej Sapkowski",
+        "book": "Chrzest ognia",
+        "quote": "– Na moim sihillu – warknął Zoltan, obnażając miecz – wyryte jest starodawnymi krasnoludzkimi runami prastare krasnoludzkie zaklęcie. Niech no jeno który ghul zbliży się na długość klingi, popamięta mnie. O, popatrzcie. \n– Ha – zaciekawił się Jaskier, który właśnie zbliżył się do nich. – Więc to są te słynne tajne runy krasnoludów? Co głosi ten napis?\n– „Na pohybel skurwysynom!”",
+        "op": "human"
+    },
+    {
+        "author": "Cornelia Funke",
+        "book": "Atramentowa krew",
+        "quote": "Zauważyłaś, że książka po kilkakrotnym przeczytaniu staje się o wiele grubsza, niż była? [...] Jakby za każdym razem coś zostawało między kartkami: uczucie, myśli, odgłosy, zapachy... A gdy po latach zaczynam ją kartkować, odnajdujemy w niej nas samych, młodszych, innych... Książka przechowuje nas jak zasuszony kwiat; odnajdujemy w niej siebie i jakby nie siebie.",
+        "op": "human"
+    },
+    {
+        "author": "Stephenie Meyer",
+        "book": "Zmierzch",
+        "quote": "Śmierć jest łatwa, prosta, życie jest trudniejsze.",
+        "op": "human"
+    },
+    {
+        "author": "Cassandra Clare",
+        "book": "Miasto popiołów",
+        "quote": "– Co robisz? – zapytał Alec, klękając przy migotliwej ścianie więzienia.\n(...)\n– A tak, przyszło mi do głowy, że poleżę sobie na podłodze i trochę powije się z bólu – odburknął. – To mnie relaksuje.\n– Naprawdę? A... jesteś sarkastyczny",
+        "op": "human"
+    },
+    {
+        "author": "Winston Groom",
+        "book": "Forrest Gump",
+        "quote": "Kiedy myślisz, że gorzej już być nie może, zacznij się walić deską po nodze. Zobaczysz jaką poczujesz ulgę gdy przestaniesz.",
+        "op": "human"
+    },
+    {
+        "author": "Andrzej Sapkowski",
+        "book": "Wieża jaskółki",
+        "quote": "Cicho, cicho dzieci. To nie demony, nie diabły... Gorzej. To ludzie.",
+        "op": "human"
+    },
+    {
+        "author": "Andrzej Sapkowski",
+        "book": "Sezon burz",
+        "quote": "Strzeżcie się rozczarowań, bo pozory mylą. Takimi, jakimi wydają się być, rzeczy są rzadko. A kobiety nigdy.",
+        "op": "human"
+    },
+    {
+        "author": "Andrzej Sapkowski",
+        "book": "Ostatnie Życzenie. Miecz Przeznaczenia",
+        "quote": "Tak, tak - westchnął ponownie Jaskier. - Świat się zmienia, słońce zachodzi, a wódka się kończy.",
+        "op": "human"
+    },
+    {
+        "author": "Andrzej Sapkowski",
+        "book": "Sezon burz",
+        "quote": "Dobrze jest odczuwać strach. Odczuwasz strach, znaczy, jest się czego bać, bądź więc czujny. Strachu nie trzeba pokonywać. Wystarczy mu nie ulegać. I warto uczyć się odeń.",
+        "op": "human"
+    },
+    {
+        "author": "Andrzej Sapkowski",
+        "book": "Sezon burz",
+        "quote": "Lot numer siedem: dzwonek z trzonkiem, mosiężny, robota krasnoludzka, wiek znaleziska trudny do oszacowania, ale rzecz z pewnością starożytna. Na obwodzie napis krasnoludzkimi runami, głoszący: \"No i czego ciulu dzwonisz\". Cena wywoławcza...",
+        "op": "human"
+    },
+    {
+        "author": "Andrzej Sapkowski",
+        "book": "Sezon burz",
+        "quote": "Myślałem prędzej nierządem się parać i w domy publiczne inwestować. Wśród polityków się obracałem i licznych poznałem. I przekonałem się, że lepiej przestawać z kurwami, bo kurwy mają chociaż jakiś swój honor i jakieś zasady.",
+        "op": "human"
+    },
+    {
+        "author": "Andrzej Sapkowski",
+        "book": "Sezon burz",
+        "quote": "- Kiszona kapusta!(...) Rzecz to smaczna i zbawienna, taka kapusta. Zimą, gdy brak witamin, chroni przed szkorbutem. Jest nadto doskonałym środkiem antydepresyjnym.\n- Jak niby?\n- Zjadasz garniec kiszonej kapusty, popijasz garncem zsiadłego mleka... i wnet depresja staje się najmniejszym z twoich zmartwień.",
+        "op": "human"
+    },
+    {
+        "author": "Andrzej Sapkowski",
+        "book": "Sezon burz",
+        "quote": "Opowieść trwa, historia nie kończy się nigdy.",
+        "op": "human"
+    },
+    {
+        "author": "Andrzej Sapkowski",
+        "book": "Sezon burz",
+        "quote": "Zamknęli raz kozę w obórce z główką kapusty. Rano kapusty ani śladu, a koza sra na zielono. Ale dowodów brak i świadków nie ma, tedy sprawa umorzona, causa finita.",
+        "op": "human"
+    },
+    {
+        "author": "Andrzej Sapkowski",
+        "book": "Ostatnie Życzenie. Miecz Przeznaczenia",
+        "quote": "[Caldemeyn] - Ale, między nami, nie rób przy niej tego, co ostatnim razem podczas kolacji. \n[Geralt] - Idzie ci o to, że rzucałem widelcem w szczura?\n[Caldemeyn] - Nie. Idzie mi o to, że trafiłeś, chociaż było ciemno.",
+        "op": "human"
+    },
+    {
+        "author": "Andrzej Sapkowski",
+        "book": "Sezon burz",
+        "quote": "- Tyś, siwy huncwocie, nadal kiepski w rachunkach - syknęła Fryga. - Znowu trzeba ci pomóc liczyć? Ty jesteś jeden, nas jest trójka. Znaczy, nas jest więcej.\n- Was jest trójka - powiódł po nich wzrokiem - a ja jestem jeden. Ale wcale nie jest was więcej. To taki matematyczny paradoks i wyjątek od reguły.\n- Znaczy, że jak?\n- Znaczy, spierdalajcie stąd w podskokach. Póki jeszcze jesteście zdolni do podskoków.",
+        "op": "human"
+    },
+    {
+        "author": "George R.R. Martin",
+        "book": "Nawałnica mieczy: Stal i śnieg",
+        "quote": "Nic nie wiesz Jonie Snow",
+        "op": "human"
+    },
+    {
+        "author": "George R.R. Martin",
+        "book": "Nawałnica mieczy: Stal i śnieg",
+        "quote": "Kiedy słońce zajdzie, nie zastąpi go świeca.",
+        "op": "human"
+    },
+    {
+        "author": "George R.R. Martin",
+        "book": "Nawałnica mieczy: Stal i śnieg",
+        "quote": "A kim to jesteś, rzekł dumny lord,\nże muszę ci się kłaniać?\nJedynie kotem innej maści,\ntakiego jestem zdania.\nW płaszczu czerwonym albo złotym,\nlew zawsze ma pazury.\nLecz moje równie ostre są\ni sięgną twojej skóry.\nTak gadał ten lord Castamere\ntęgiego zgrywając zucha,\nDziś w jego zamku płacze deszcz\nktórego nikt nie słucha.\nDziś w jego zamku płacze deszcz\ni nie ma kto go słuchać.",
+        "op": "human"
+    },
+    {
+        "author": "George R.R. Martin",
+        "book": "Nawałnica mieczy: Stal i śnieg",
+        "quote": "Czasem sobie myślę, że wszyscy tylko udają odważnych, a wcale naprawdę tacy nie są. Może to dzięki udawaniu stajemy się odważni. Nie wiem.",
+        "op": "human"
+    },
+    {
+        "author": "George R.R. Martin",
+        "book": "Nawałnica mieczy: Stal i śnieg",
+        "quote": "Istniało wysokie prawdopodobieństwo, że pechowy Willas Tyrell zapadnie na nagły, śmiertelny przypadek miecza w brzuchu, co raczej zaszkodziłoby sojuszowi między Wysogrodem a Casterly Rock.",
+        "op": "human"
+    },
+    {
+        "author": "George R.R. Martin",
+        "book": "Nawałnica mieczy: Krew i złoto",
+        "quote": "Wszystko to bierze początek w przeszłości - pomyślał Tyrion. - Od naszych matek i ojców oraz od ich rodziców przed nimi. Jesteśmy marionetkami tańczącymi na sznurkach tych, którzy żyli przed nami, a pewnego dnia nasze dzieci przejmą po nas sznurki i będą tańczyły zamiast nas.",
+        "op": "human"
+    },
+    {
+        "author": "George R.R. Martin",
+        "book": "Nawałnica mieczy: Stal i śnieg",
+        "quote": "-A cóż innego mogę zrobić, jeśli nie umrzeć?\n-Żyć.",
+        "op": "human"
+    },
+    {
+        "author": "George R.R. Martin",
+        "book": "Nawałnica mieczy: Stal i śnieg",
+        "quote": "Obrażają mnie tylko kłamstwa, nigdy szczere rady.",
+        "op": "human"
+    },
+    {
+        "author": "George R.R. Martin",
+        "book": "Nawałnica mieczy: Krew i złoto",
+        "quote": "Arya skrzyżowała ręce na piersi.\n- Valar morghulis - rzekła tak głośno, jakby wiedziała, co to znaczy.\n- Valar dohaeris - odpowiedział, dotykając czoła dwoma palcami.",
+        "op": "human"
+    },
+    {
+        "author": "George R.R. Martin",
+        "book": "Nawałnica mieczy: Krew i złoto",
+        "quote": "Dopóki wrogowie są w polu, nie ma mowy o zwycięstwie.",
+        "op": "human"
+    },
+    {
+        "author": "George R.R. Martin",
+        "book": "Nawałnica mieczy: Stal i śnieg",
+        "quote": "Każda czynność może być modlitwą, jeśli wykonujemy ją tak dobrze, jak tylko potrafimy.",
+        "op": "human"
+    },
+    {
+        "author": "George R.R. Martin",
+        "book": "Nawałnica mieczy: Stal i śnieg",
+        "quote": "Jeśli mężczyzna nie używa członka, to on wciąż mu się kurczy, aż wreszcie pewnego dnia chce się odlać i nie może go znaleźć.",
+        "op": "human"
+    },
+    {
+        "author": "George R.R. Martin",
+        "book": "Nawałnica mieczy: Stal i śnieg",
+        "quote": "Nawet odważni ludzie często wolą być ślepi, gdy boją się coś zobaczyć.",
+        "op": "human"
+    },
+    {
+        "author": "George R.R. Martin",
+        "book": "Nawałnica mieczy: Krew i złoto",
+        "quote": "Sadgekins może się wyruchać w dupę gorącym pogrzebaczem.",
+        "op": "human"
+    },
+    {
+        "author": "George R.R. Martin",
+        "book": "Nawałnica mieczy: Krew i złoto",
+        "quote": "Dajcie mi słodkie kłamstwa i zabierzcie swe gorzkie prawdy.",
+        "op": "human"
+    },
+    {
+        "author": "George R.R. Martin",
+        "book": "Nawałnica mieczy: Krew i złoto",
+        "quote": "- Nie może mówić - oznajmił mężczyzna w żółtym płaszczu. - Zbyt głęboko poderżnęliście jej gardło, cholerne skurwysyny. Ale pamięta.",
+        "op": "human"
+    },
+    {
+        "author": "George R.R. Martin",
+        "book": "Nawałnica mieczy: Stal i śnieg",
+        "quote": "Jeden król znaczy pokój.",
+        "op": "human"
+    },
+    {
+        "author": "George R.R. Martin",
+        "book": "Nawałnica mieczy: Stal i śnieg",
+        "quote": "(...) wydawało mu się jednak, że dla umarłych strach nie ma żadnego znaczenia, podobnie jak ból, miłość czy obowiązek.",
+        "op": "human"
+    },
+    {
+        "author": "George R.R. Martin",
+        "book": "Nawałnica mieczy: Stal i śnieg",
+        "quote": "Bogowie stworzyli ziemię dla wszystkich ludzi. Gdy jednak nadeszli królowie ze swymi koronami i stalowymi mieczami, oznajmili, że cała należy do nich. Mówili: „To moje drzewa. Nie wolno wam jeść tych jabłek. To mój strumień. Nie wolno wam łowić w nim ryb. To mój las. Nie wolno w nim polować. Moja ziemia, moja woda, mój zamek, moja córka, trzymajcie ręce z dala od nich, bo je wam odrąbię, ale jeśli przede mną klękniecie, to może pozwolę wam trochę powąchać”. Nazywacie nas złodziejami, ale złodziej przynajmniej musi być odważny, sprytny i szybki. Klękacz musi tylko klękać.",
+        "op": "human"
+    },
+    {
+        "author": "George R.R. Martin",
+        "book": "Nawałnica mieczy: Stal i śnieg",
+        "quote": "- Jesteś mój – wyszeptała. – Mój, a ja twoja. Jeśli zginiemy, to trudno. Wszyscy muszą umrzeć, Jonie Snow. Ale najpierw żyjemy.",
+        "op": "human"
+    }
+]
+
+
+
+
+
+
+///////// Assuming you have access to the DOM containing the quotes HTML structure
+
+// Select all elements with the class 'quotes__singleText'
+const quotesElements = document.querySelectorAll('.quotes__singleText');
+
+// Array to store the extracted quotes
+let extractedQuotes = [];
+
+// Iterate through each quotes element
+quotesElements.forEach(element => {
+    // Extract author and book information
+    const authorElement = element.querySelector('.quotes__singleAuthor--author');
+    const bookElement = element.querySelector('.quotes__singleAuthor--book');
+
+    // Extract quote text
+    const quoteText = element.querySelector('.collapse-content').textContent.trim();
+
+    // Create an object for each quote
+    const quoteObj = {
+        "author": authorElement ? authorElement.textContent.trim() : "",
+        "book": bookElement ? bookElement.textContent.trim() : "",
+        "quote": quoteText,
+        "op": "human" // Assuming this value is constant for all quotes
+    };
+
+    // Add the quote object to the array
+    extractedQuotes.push(quoteObj);
+});
+
+// Print the extracted quotes array in JSON format
+console.log(JSON.stringify(extractedQuotes, null, 4));
