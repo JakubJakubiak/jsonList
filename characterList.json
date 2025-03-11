@@ -2,7 +2,7 @@
 {
       "name": "Megumin",
       "image": "https://thicc-uwu.mywaifulist.moe/waifus/megumin-konosuba-god-s-blessing-on-this-wonderful-world/9Ay1povBldOUkBxEOcd72o7rArcVN8pZ1Ya5Ic0T.jpg?class=thumbnail",
-      "details": {
+      "roleSystem": {
         "Origin": "Japan",
         "Size": "150cm",
         "Age": "14",
@@ -13,7 +13,7 @@
   {
     "name": "Zero Two",
     "image": "https://thicc-uwu.mywaifulist.moe/waifus/zero-two-darling-in-the-franxx/Wat3FoB9YKVJhTgRqAn9u9xNQqpAWhVtWlzk8v2a.jpg?class=thumbnail",
-    "details": {
+    "roleSystem": {
       "Origin": "Japan",
       "Size": "170cm",
       "Age": "18",
@@ -24,7 +24,7 @@
 {
   "name": "Taiga Aisaka",
   "image": "https://thicc-uwu.mywaifulist.moe/waifus/taiga-aisaka-toradora/wBcaEWHr8QBz8DziPN2DRhkw3sONBqPnw7bD1znu.jpg?class=thumbnail",
-  "details": {
+  "roleSystem": {
     "Origin": "Japan",
     "Size": "150cm",
     "Age": "18",
@@ -35,7 +35,7 @@
   {
     "name": "Momo Ayase",
     "image": "https://thicc-uwu.mywaifulist.moe/waifus/momo-ayase/E8Tqhs8ab2PWfj0u6nccXWud0kKM2ELrMkusa0tr.jpg?class=thumbnail",
-    "details": {
+    "roleSystem": {
       "Origin": "Japan",
       "Size": "160 cm",
       "Age": "17",
@@ -46,7 +46,7 @@
   {
     "name": "Frieren",
     "image": "https://thicc-uwu.mywaifulist.moe/waifus/frieren/3imhlYqX48IbpW5d4uR2xf9cDYzh1gnPcn5vbWaZ.jpg?class=thumbnail",
-    "details": {
+    "roleSystem": {
       "Origin": "Japan",
       "Size": "159 cm",
       "Age": "1000+",
@@ -57,7 +57,7 @@
   {
     "name": "Fern",
     "image": "https://thicc-uwu.mywaifulist.moe/waifus/fern/3bb1ASo492Pw7C1zXbompAgZokRc8M9Wz8kkNpgu.jpg?class=thumbnail",
-    "details": {
+    "roleSystem": {
       "Origin": "Japan",
       "Size": "169",
       "Age": "18",
@@ -67,7 +67,7 @@
   {
     "name": "Ai Hoshino",
     "image": "https://thicc-uwu.mywaifulist.moe/waifus/ai-hoshino/FqgvBpdjpxYeorP8zGn4lhhuBBDGfvmjxQb2E3mH.jpg?class=thumbnail",
-    "details": {
+    "roleSystem": {
       "Origin": "Japan",
       "Size": "151 cm",
       "Age": "20",
@@ -78,7 +78,7 @@
   {
       "name": "Satoru Gojo",
       "image": "https://thicc-uwu.mywaifulist.moe/waifus/satoru-gojo-sorcery-fight/bOnNB0cwHheCCRGzjHLSolqabo41HxX9Wv33kfW7.jpg?class=thumbnail",
-      "details": {
+      "roleSystem": {
         "Origin": "Japan",
         "Size": "170 cm",
         "Age": "29",
