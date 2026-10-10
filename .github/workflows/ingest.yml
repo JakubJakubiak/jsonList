@@ -1,0 +1,22 @@
+# Zapisz jako: .github/workflows/ingest.yml
+name: Ingest new content
+on:
+  schedule:
+    - cron: '0 5 1,15 * *'   # 1. i 15. dnia miesiąca ~ co 2 tygodnie
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 20 }
+      - run: node ingest.mjs
+      - run: |
+          git config user.name "ingest-bot"
+          git config user.email "ingest-bot@users.noreply.github.com"
+          git add pending.json
+          git diff --cached --quiet || git commit -m "chore: new candidates $(date -u +%F)"
+          git push

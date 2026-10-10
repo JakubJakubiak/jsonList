@@ -1,0 +1,27 @@
+# Zapisz jako: .github/workflows/check-links.yml
+name: Check links
+
+on:
+  schedule:
+    - cron: '0 4 * * 1'   # co poniedziałek 04:00 UTC
+  workflow_dispatch:       # + ręczne odpalenie z zakładki Actions
+
+permissions:
+  contents: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: node check-links.mjs
+      - name: Commit report
+        run: |
+          git config user.name  "link-checker"
+          git config user.email "link-checker@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "chore: link report $(date -u +%F)"
+          git push

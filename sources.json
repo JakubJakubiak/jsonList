@@ -1,0 +1,21 @@
+[
+  {
+    "name": "PRZYKŁAD-rss-ai",
+    "label": "ai",
+    "type": "image",
+    "format": "rss",
+    "url": "https://example.com/feed.xml",
+    "target": "humnOrAi.json",
+    "limit": 20
+  },
+  {
+    "name": "PRZYKŁAD-json-human",
+    "label": "human",
+    "type": "image",
+    "format": "json",
+    "path": "items[].image_url",
+    "url": "https://example.com/api/photos",
+    "target": "humnOrAi.json",
+    "limit": 20
+  }
+]

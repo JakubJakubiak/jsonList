@@ -1,0 +1,21 @@
+# Zapisz jako: .github/workflows/approve.yml
+# Odpalasz ręcznie (Actions -> Approve pending -> Run workflow) po przejrzeniu pending.json
+name: Approve pending
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  approve:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 20 }
+      - run: node approve.mjs
+      - run: |
+          git config user.name "ingest-bot"
+          git config user.email "ingest-bot@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "chore: approved entries $(date -u +%F)"
+          git push
