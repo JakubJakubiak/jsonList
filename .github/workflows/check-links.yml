@@ -1,22 +1,22 @@
 # Zapisz jako: .github/workflows/check-links.yml
 name: Check links
-
 on:
   schedule:
-    - cron: '0 4 * * 1'   # co poniedziałek 04:00 UTC
-  workflow_dispatch:       # + ręczne odpalenie z zakładki Actions
-
+    - cron: '0 4 1,15 * *'   # 1. i 15. dnia miesiąca ~ co 2 tygodnie
+  workflow_dispatch:
 permissions:
   contents: write
-
+concurrency:
+  group: repo-writes          # workflowy zapisujące do repo nie biegną naraz
+  cancel-in-progress: false
 jobs:
   check:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
+    timeout-minutes: 45
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
-        with:
-          node-version: 20
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with: { node-version: 22 }
       - run: node check-links.mjs
       - name: Commit report
         run: |
@@ -24,4 +24,5 @@ jobs:
           git config user.email "link-checker@users.noreply.github.com"
           git add -A
           git diff --cached --quiet || git commit -m "chore: link report $(date -u +%F)"
+          git pull --rebase
           git push
