@@ -17,6 +17,9 @@ jobs:
       - uses: actions/checkout@v5
       - uses: actions/setup-node@v5
         with: { node-version: 22 }
+      - name: Refresh Suno (AI music)
+        run: node refresh-suno.mjs
+        continue-on-error: true   # awaria API Suno nie blokuje sprawdzania linków
       - run: node check-links.mjs
       - name: Commit report
         run: |

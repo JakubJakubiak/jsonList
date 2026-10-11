@@ -18,10 +18,12 @@ jobs:
       - uses: actions/setup-node@v5
         with: { node-version: 22 }
       - run: node ingest.mjs
+        env:
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}   # opcjonalny darmowy klucz - bez niego źródła Pexels są pomijane
       - run: |
           git config user.name "ingest-bot"
           git config user.email "ingest-bot@users.noreply.github.com"
-          git add pending.json
+          git add pending.json PENDING.md
           git diff --cached --quiet || git commit -m "chore: new candidates $(date -u +%F)"
           git pull --rebase
           git push

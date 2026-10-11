@@ -1,8 +1,16 @@
-# Zapisz jako: .github/workflows/approve.yml
-# Odpalasz ręcznie (Actions -> Approve pending -> Run workflow) po przejrzeniu pending.json
+# Odpalasz ręcznie (Actions -> Approve pending -> Run workflow) po przejrzeniu PENDING.md
 name: Approve pending
 on:
   workflow_dispatch:
+    inputs:
+      approve:
+        description: 'Co dodać do gry: "all" albo ID z PENDING.md oddzielone spacjami'
+        required: false
+        default: ''
+      reject:
+        description: 'Co odrzucić na stałe: ID oddzielone spacjami albo "rest" (wszystko poza zatwierdzonymi)'
+        required: false
+        default: ''
 permissions:
   contents: write
 concurrency:
@@ -17,6 +25,13 @@ jobs:
       - uses: actions/setup-node@v5
         with: { node-version: 22 }
       - run: node approve.mjs
+        env:
+          APPROVE: ${{ inputs.approve }}
+          REJECT: ${{ inputs.reject }}
+      - run: node ingest.mjs   # odświeża PENDING.md po decyzjach (i dobiera kolejne propozycje)
+        env:
+          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+        continue-on-error: true
       - run: |
           git config user.name "ingest-bot"
           git config user.email "ingest-bot@users.noreply.github.com"
