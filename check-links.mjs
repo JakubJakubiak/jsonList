@@ -11,13 +11,14 @@ const TIMEOUT_MS = 15_000;
 const CONCURRENCY = 30;          // ile linków naraz ogółem
 const PER_HOST = 4;              // ile naraz do JEDNEJ domeny (mniej blokad 429)
 const RETRY_WAITS = [2000, 5000]; // ponowne próby dla "unknown" (429, 5xx, timeout)
+const FORBIDDEN_AFTER = 3;      // HTTP 403 tyle przebiegów z rzędu = plik zdjęty z CDN, traktujemy jak martwy
 const DEAD_AFTER = 1;            // ile wykryć "dead" = przenosimy (przed tym i tak jest re-check)
 const MAX_PRUNE_RATIO = 0.5;     // >50% martwych w pliku = pewnie awaria sieci, nie ruszamy
 const BREAKER_SOFT = 10;         // tyle "unknown" z rzędu z hosta = bez ponownych prób
 const BREAKER_HARD = 30;         // tyle z rzędu = pomijamy resztę linków tego hosta
 const STATUS_FILE = 'link-status.json';
 const OLD_FILE = 'old.json';
-const SKIP = new Set([STATUS_FILE, OLD_FILE, 'sources.json', 'pending.json', 'rejected.json', 'package.json', 'package-lock.json']);
+const SKIP = new Set([STATUS_FILE, OLD_FILE, 'suno-playlists.json', 'sources.json', 'pending.json', 'rejected.json', 'package.json', 'package-lock.json']);
 const SKIP_PATTERN = /^(archiwe|old)/i; // archiwa nie są czyszczone
 const MEDIA_EXT = /\.(jpe?g|png|gif|webp|avif|svg|mp3|wav|ogg|m4a|flac|mp4|webm|mov)$/i;
 const YT = /(?:youtube\.com|youtu\.be)\//;
@@ -129,6 +130,10 @@ async function worker() {
     const url = urls[i++];
     const r = await check(url);
     const old = prev[url] ?? {};
+    // CDN-y (S3/CloudFront) oddają 403 zamiast 404 dla usuniętych plików - po kilku przebiegach uznajemy za martwe
+    if (r.status === 'unknown' && r.reason === 'HTTP 403' && old.reason === 'HTTP 403' && (old.unknownStreak ?? 0) + 1 >= FORBIDDEN_AFTER) {
+      r.status = 'dead'; r.reason = `HTTP 403 od ${FORBIDDEN_AFTER} przebiegów`;
+    }
     next[url] = {
       status: r.status,
       reason: r.reason ?? null,

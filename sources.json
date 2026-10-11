@@ -1,21 +1,116 @@
 [
   {
-    "name": "PRZYKŁAD-rss-ai",
-    "label": "ai",
-    "type": "image",
-    "format": "rss",
-    "url": "https://example.com/feed.xml",
-    "target": "humnOrAi.json",
-    "limit": 20
-  },
-  {
-    "name": "PRZYKŁAD-json-human",
+    "name": "commons-featured-new",
     "label": "human",
     "type": "image",
-    "format": "json",
-    "path": "items[].image_url",
-    "url": "https://example.com/api/photos",
+    "format": "commons",
+    "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&generator=categorymembers&gcmtitle=Category:Featured_pictures_on_Wikimedia_Commons&gcmtype=file&gcmlimit=200&gcmsort=timestamp&gcmdir=desc&prop=imageinfo&iiprop=url|mime|extmetadata&iiurlwidth=1280&iiextmetadatafilter=Artist|LicenseShortName|Categories",
     "target": "humnOrAi.json",
-    "limit": 20
+    "limit": 8
+  },
+  {
+    "name": "commons-paintings",
+    "label": "human",
+    "type": "image",
+    "format": "commons",
+    "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&generator=search&gsrnamespace=6&gsrlimit=50&gsrsearch=incategory%3A%22Featured_pictures_on_Wikimedia_Commons%22%20painting&prop=imageinfo&iiprop=url|mime|extmetadata&iiurlwidth=1280&iiextmetadatafilter=Artist|LicenseShortName|Categories",
+    "target": "humnOrAi.json",
+    "limit": 6
+  },
+  {
+    "name": "commons-portraits",
+    "label": "human",
+    "type": "image",
+    "format": "commons",
+    "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&generator=search&gsrnamespace=6&gsrlimit=50&gsrsearch=incategory%3A%22Featured_pictures_on_Wikimedia_Commons%22%20portrait%20photograph&prop=imageinfo&iiprop=url|mime|extmetadata&iiurlwidth=1280&iiextmetadatafilter=Artist|LicenseShortName|Categories",
+    "target": "humnOrAi.json",
+    "limit": 6
+  },
+  {
+    "name": "commons-food-objects",
+    "label": "human",
+    "type": "image",
+    "format": "commons",
+    "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&generator=search&gsrnamespace=6&gsrlimit=50&gsrsearch=incategory%3A%22Featured_pictures_on_Wikimedia_Commons%22%20food&prop=imageinfo&iiprop=url|mime|extmetadata&iiurlwidth=1280&iiextmetadatafilter=Artist|LicenseShortName|Categories",
+    "target": "humnOrAi.json",
+    "limit": 4
+  },
+  {
+    "name": "commons-city-street",
+    "label": "human",
+    "type": "image",
+    "format": "commons",
+    "url": "https://commons.wikimedia.org/w/api.php?action=query&format=json&formatversion=2&generator=search&gsrnamespace=6&gsrlimit=50&gsrsearch=incategory%3A%22Featured_pictures_on_Wikimedia_Commons%22%20street%20city&prop=imageinfo&iiprop=url|mime|extmetadata&iiurlwidth=1280&iiextmetadatafilter=Artist|LicenseShortName|Categories",
+    "target": "humnOrAi.json",
+    "limit": 4
+  },
+  {
+    "name": "pexels-photos",
+    "label": "human",
+    "type": "image",
+    "format": "pexels-photo",
+    "auth": "PEXELS_API_KEY",
+    "url": "https://api.pexels.com/v1/curated?per_page=60",
+    "target": "humnOrAi.json",
+    "limit": 10
+  },
+  {
+    "name": "civitai-top-month",
+    "label": "ai",
+    "type": "image",
+    "format": "civitai",
+    "url": "https://civitai.com/api/v1/images?limit=200&nsfw=None&sort=Most%20Reactions&period=Month",
+    "target": "humnOrAi.json",
+    "limit": 16
+  },
+  {
+    "name": "nasa-earth",
+    "label": "human",
+    "type": "video",
+    "format": "nasa-video",
+    "url": "https://images-api.nasa.gov/search?media_type=video&q=earth&page_size=100",
+    "target": "video_links_human.json",
+    "limit": 4,
+    "maxMB": 25
+  },
+  {
+    "name": "nasa-wildlife",
+    "label": "human",
+    "type": "video",
+    "format": "nasa-video",
+    "url": "https://images-api.nasa.gov/search?media_type=video&q=wildlife&page_size=100",
+    "target": "video_links_human.json",
+    "limit": 4,
+    "maxMB": 25
+  },
+  {
+    "name": "pexels-videos",
+    "label": "human",
+    "type": "video",
+    "format": "pexels-video",
+    "auth": "PEXELS_API_KEY",
+    "url": "https://api.pexels.com/videos/popular?per_page=60",
+    "target": "video_links_human.json",
+    "limit": 10,
+    "maxMB": 25
+  },
+  {
+    "name": "incompetech",
+    "label": "human",
+    "type": "audio",
+    "format": "incompetech",
+    "url": "https://incompetech.com/music/royalty-free/pieces.json",
+    "target": "tinyncsmusic.json",
+    "limit": 8
+  },
+  {
+    "name": "ncs-more",
+    "label": "human",
+    "type": "audio",
+    "format": "file",
+    "file": "ncsmusic.json",
+    "credit": "NoCopyrightSounds (ncs.io)",
+    "target": "tinyncsmusic.json",
+    "limit": 8
   }
 ]
