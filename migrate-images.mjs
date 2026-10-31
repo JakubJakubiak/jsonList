@@ -60,6 +60,6 @@ async function worker() {
 }
 
 await Promise.all(Array.from({ length: CONCURRENCY }, worker));
-if (moved) writeFileSync(FILE, `${JSON.stringify(data, null, 2)}\n`);
+if (moved) writeFileSync(FILE, `${JSON.stringify(data, null, 4)}\n`);
 const mb = (n) => (n / 1e6).toFixed(1);
 console.log(`Przeniesiono ${moved}, nieudanych prób ${failed}, zostało ${queue.length + failed}. ${mb(bytesIn)} MB -> ${mb(bytesOut)} MB`);
